@@ -183,5 +183,9 @@ Helm v3 - Available from here - https://helm.sh/docs/intro/install/
 
 Reference:
 https://github.com/gogodi91/K8sDevTools
+https://github.com/mcaimi/k8s-demo-app
+
+Reference to setup Jenkins shared library:
+https://github.com/liejuntao001/jenkins-k8sagent-lib
 
 
